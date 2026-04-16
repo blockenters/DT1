@@ -1,5 +1,14 @@
 ## 실무 파이썬 데이터분석
 
+
+### 파이썬 차트그릴때 한글 사용 라이브러리
+
+```
+pip install koreanize-matplotlib
+```
+
+---
+
 ### git 설치
 
 https://git-scm.com/install/windows
