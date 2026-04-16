@@ -7,6 +7,11 @@
 pip install koreanize-matplotlib
 ```
 
+```
+import matplotlib.pyplot as plt
+import koreanize_matplotlib
+```
+
 ---
 
 ### git 설치
